@@ -1,4 +1,4 @@
-= PolipoX
+# PolipoX
 
 The [polipo](http://www.pps.univ-paris-diderot.fr/~jch/software/polipo/) GUI client for Mac OS X.
 
