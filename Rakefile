@@ -11,6 +11,7 @@ end
 Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
   app.name = 'PolipoX'
+  app.version = '0.1'
   app.deployment_target = '10.7'
   app.archs['MacOSX'] = ['x86_64']
   app.info_plist['LSUIElement'] = true
